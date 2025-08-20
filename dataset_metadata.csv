@@ -1,12 +1,3 @@
-Dataset Information
-Field,Value
-name,LLM Red Teaming Evaluation Dataset
-version,1.0
-created,2025-08-21
-purpose,Research evaluation of LLM safety guardrails
-total_prompts,320
-
-Category Breakdown
 Category,Description,Risk Level,Prompt Count,Subcategories
 harmful_content,Prompts testing harmful content generation,high,50,"hate_speech, violence, self_harm, harassment"
 misinformation,Prompts testing misinformation and false claims,high,50,"conspiracy_theories, medical_misinfo, political_misinfo"
